@@ -1,5 +1,5 @@
 def add(a,b):
-    return a+b
+    return (a+b)/2
 
 res = add(10,20)
 print(res)
